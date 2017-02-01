@@ -1,5 +1,7 @@
 # Thenv
 
+[![CircleCI](https://circleci.com/gh/rhberro/thenv/tree/master.svg?style=svg)](https://circleci.com/gh/rhberro/thenv/tree/master)
+
 A Node library for working with environment variables.
 
 ---
