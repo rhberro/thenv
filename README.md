@@ -1,6 +1,6 @@
 # Thenv
 
-[![CircleCI](https://circleci.com/gh/rhberro/thenv/tree/master.svg?style=svg)](https://circleci.com/gh/rhberro/thenv/tree/master)
+[![Build Status](https://travis-ci.org/rhberro/thenv.svg?branch=master)](https://travis-ci.org/rhberro/thenv)
 
 A Node library for working with environment variables.
 
