@@ -1,6 +1,7 @@
 # Thenv
 
 [![Build Status](https://travis-ci.org/rhberro/thenv.svg?branch=master)](https://travis-ci.org/rhberro/thenv)
+[![Standard - JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
 A Node library for working with environment variables.
 
