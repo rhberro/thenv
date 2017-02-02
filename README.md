@@ -25,12 +25,12 @@ npm install --save thenv
 The simplest and the cleanest way.
 
 ```js
-const thenv = require('thenv')
+const thenv = require('thenv')()
 ```
 
-You can also specify the file name.
+You can also specify the file name and the file encoding.
 
 ```js
-const thenv = require('thenv')('path/to/file')
+const thenv = require('thenv')('path/to/file', 'encoding')
 ```
 
