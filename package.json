@@ -1,14 +1,25 @@
 {
   "name": "thenv",
   "version": "0.0.0",
-  "description": "The environment.",
+  "description": "A Node library for working with environment variables.",
   "main": "index.js",
-  "author": "Rafael Henrique Berro",
   "license": "MIT",
+  "author": {
+    "email": "rhberro@gmail.com",
+    "name": "Rafael Henrique Berro",
+    "url": "https://github.com/rhberro"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/rhberro/thenv"
   },
+  "keywords": [
+    "environment",
+    "library",
+    "nodejs",
+    "node",
+    "utility"
+  ],
   "engines": {
     "node": ">=0.10.40",
     "npm": ">=1.4.28"
