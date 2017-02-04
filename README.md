@@ -28,13 +28,13 @@ npm install --save thenv
 The simplest and the cleanest way.
 
 ```js
-const thenv = require('thenv')()
+var thenv = require('thenv')()
 ```
 
 You can also specify the file name.
 
 ```js
-const thenv = require('thenv')('path/to/file')
+var thenv = require('thenv')('path/to/file')
 ```
 
 It returns an object with every valid property that was applied to the environment.
