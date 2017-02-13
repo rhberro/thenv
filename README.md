@@ -31,10 +31,10 @@ The simplest and the cleanest way.
 var thenv = require('thenv')()
 ```
 
-You can also specify the file name.
+You can also specify the file name and the encoding type.
 
 ```js
-var thenv = require('thenv')('path/to/file')
+var thenv = require('thenv')('path/to/file', 'encoding')
 ```
 
 It returns an object with every valid property that was applied to the environment.
