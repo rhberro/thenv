@@ -1,4 +1,4 @@
-'use static'
+'use strict'
 
 var assert = require('assert')
 
