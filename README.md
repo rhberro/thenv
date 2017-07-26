@@ -2,7 +2,6 @@
 
 [![Build Status](https://travis-ci.org/rhberro/thenv.svg?branch=master)](https://travis-ci.org/rhberro/thenv)
 [![Standard - JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
-[![Coverage Status](https://coveralls.io/repos/github/rhberro/thenv/badge.svg)](https://coveralls.io/github/rhberro/thenv)
 
 A Node library for working with environment variables.
 
