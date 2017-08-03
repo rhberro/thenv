@@ -33,7 +33,8 @@
     "standard": "^8.6.0"
   },
   "scripts": {
-    "test": "standard | snazzy && mocha",
+    "test": "mocha",
+    "lint": "standard | snazzy",
     "build": "standard --fix"
   }
 }
